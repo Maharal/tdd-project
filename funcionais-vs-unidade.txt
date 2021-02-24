@@ -1,0 +1,2 @@
+1. teste de unidade são mais rápidos que testes funcionais. Pois os testes funcionais testam uma funcionalidade no nivel de interface gráfica.
+2. O teste de unidade é um teste white-box; enquanto o funcional, black-box.
